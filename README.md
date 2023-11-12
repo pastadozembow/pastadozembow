@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pastadozembow
-- 👀 I’m interested in games
-- 🌱 I’m currently learning gamedev
+- 👋 Hi, I’m @Lorbasta
+- 👀 I’m interested in MCUs and robotics
+- 🌱 I’m currently learning Electronics
 - 💞️ I’m looking to collaborate on somebody
-- 📫 How to reach me ...
+- 📫 How to reach me : discord: Lorbasta
 
 <!---
 pastadozembow/pastadozembow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
