@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lorbasta
 - 👀 I’m interested in MCUs and robotics
 - 🌱 I’m currently learning Electronics
-- 💞️ I’m looking to collaborate on somebody
+- 💞️ I’m looking to collaborate on something
 - 📫 How to reach me : discord: Lorbasta
 
 <!---
